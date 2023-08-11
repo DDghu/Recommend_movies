@@ -2,10 +2,10 @@
    "name": "Recommend_movies",
    "version": "1.0.0",
    "description": "",
-   "main":"app.py"
+   "main":"app.py",
    "scripts": {
       "start": "python app.py"
-  },
+   },
    "repository": {
        "type": "git",
        "url": "git+https://github.com/DDghu/Recommend_movies.git"
