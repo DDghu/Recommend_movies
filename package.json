@@ -2,10 +2,11 @@
    "name": "Recommend_movies",
    "version": "1.0.0",
    "description": "",
+   "main":"app.py"
    "scripts": {
       "build": "echo \"No build specified\" && exit 1",
-       "test": "echo \"No test specified\" && exit 1",
-      "start": "node index.js"
+      "test": "echo \"No test specified\" && exit 1",
+      "start": "python app.py"
   },
    "repository": {
        "type": "git",
