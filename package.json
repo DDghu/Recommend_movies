@@ -2,9 +2,9 @@
    "name": "Recommend_movies",
    "version": "1.0.0",
    "description": "",
-   "main":"app.py",
+   "main":"main.py",
    "scripts": {
-      "start": "python app.py"
+      "start": "python main.py"
    },
    "repository": {
        "type": "git",
