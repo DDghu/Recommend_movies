@@ -6,7 +6,6 @@ Werkzeug
 numpy
 nltk
 scipy
-scipy.sparse._csr
 scikit-learn
 pandas
 beautifulsoup4
