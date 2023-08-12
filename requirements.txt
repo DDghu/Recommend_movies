@@ -4,10 +4,10 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
-scipy
 nltk
 scikit-learn
 pandas
+jsonschema
 tmdbv3api
 lxml
 urllib3
