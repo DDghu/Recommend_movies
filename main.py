@@ -15,7 +15,7 @@ from datetime import date, datetime
 filename = 'nlp_model.pkl'
 clf = pickle.load(open(filename, 'rb'))
 filename2='tranform.pkl'
-vectorizer = pickle.load(open(filename2, "rb"))
+vectorizer = pickle.load(open(filename2, 'rb'))
 
 
 # converting list of string to list (eg. "["abc","def"]" to ["abc","def"])
