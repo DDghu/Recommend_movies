@@ -6,6 +6,7 @@ Werkzeug
 numpy
 nltk
 scikit-learn
+scipy
 pandas
 jsonschema
 tmdbv3api
