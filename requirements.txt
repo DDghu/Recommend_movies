@@ -1,4 +1,4 @@
-scipy
+scipy==1.11.1
 beautifulsoup4
 Flask
 gunicorn
